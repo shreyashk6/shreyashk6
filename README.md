@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Shreyas H K</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full-stack developer</h3>
 
 - 🔭 I’m currently working on **AI Image-to-Code Latex Generator**
 
